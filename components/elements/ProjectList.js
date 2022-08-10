@@ -31,7 +31,7 @@ function ProjectList() {
                     </>
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faNode, "mongodb.svg"]}
-                demo="https://alpha-supplement.com"
+                demo="ecommerce.faizscripts.com"
                 sourceCode="https://github.com/faizscripts/amazon-cellular"
                 youtube={true}
                 link="https://www.youtube.com/embed/uCpxKfBrX7k"
