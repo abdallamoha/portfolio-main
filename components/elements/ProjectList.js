@@ -32,7 +32,7 @@ function ProjectList() {
                 }
                 techUsed={[faHtml5, faCss3, faSass, faBootstrap, faJs, faNode, "mongodb.svg"]}
                 demo="ecommerce.faizscripts.com"
-                sourceCode="https://github.com/faizscripts/amazon-cellular"
+                sourceCode="https://github.com/faizscripts/ecommerce-demo"
                 youtube={true}
                 link="https://www.youtube.com/embed/uCpxKfBrX7k"
             />
